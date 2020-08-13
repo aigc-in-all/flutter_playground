@@ -1,0 +1,28 @@
+{
+  "@@last_modified": "2020-08-13T13:05:57.998037",
+  "@@locale":"en",
+  "title": "Flutter Demo",
+  "@title": {
+    "description": "标题",
+    "type": "text",
+    "placeholders": {}
+  },
+  "toolbar": "Flutter Demo Home Page",
+  "@toolbar": {
+    "description": "toolbar",
+    "type": "text",
+    "placeholders": {}
+  },
+  "content": "You have pushed the button this many times:",
+  "@content": {
+    "description": "点击次数描述",
+    "type": "text",
+    "placeholders": {}
+  },
+  "tooltip": "Increment",
+  "@tooltip": {
+    "description": "右下角加号Tips",
+    "type": "text",
+    "placeholders": {}
+  }
+}

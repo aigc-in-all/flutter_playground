@@ -1,0 +1,28 @@
+{
+  "@@last_modified": "2020-08-13T13:05:57.998037",
+  "@@locale":"zh",
+  "title": "Flutter 多语言示例",
+  "@title": {
+    "description": "标题",
+    "type": "text",
+    "placeholders": {}
+  },
+  "toolbar": "Flutter 多语言示例主页",
+  "@toolbar": {
+    "description": "toolbar",
+    "type": "text",
+    "placeholders": {}
+  },
+  "content": "你已多次按下按钮：",
+  "@content": {
+    "description": "点击次数描述",
+    "type": "text",
+    "placeholders": {}
+  },
+  "tooltip": "加1",
+  "@tooltip": {
+    "description": "右下角加号Tips",
+    "type": "text",
+    "placeholders": {}
+  }
+}
